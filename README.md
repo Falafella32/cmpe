@@ -20,8 +20,7 @@
   [![Instagram](https://img.shields.io/static/v1.svg?label=Instagram&message=@qxresearch&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/qxresearch) 
   [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@qxresearch&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/company/68716543)
   [![YouTube](https://img.shields.io/static/v1.svg?label=YouTube&message=@qxresearch&color=grey&logo=youtube&style=flat&logoColor=white&colorA=critical)](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA)
-  <img alt="AUR last modified" src="https://img.shields.io/aur/last-modified/google-chrome">
-
+  [![Say thanks!](https://img.shields.io/badge/Say%20Thanks-%F0%9F%A6%89-1EAEDB.svg)](https://saythanks.io/to/rohitmandal814566%40gmail.com)
 
 
 **QX Research** is an online Developer **|** Research club in collaboration with `Mozilla Campus Club`. We focus on the application of `Programming` with `AI` `ML` `Cloud Computing` `Computer Vision` `IOT` etc. Our Research Sessions will take place remotely over [video chat](https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA), so you can be anywhere in the world.
@@ -30,6 +29,11 @@
 #qxresearch enhance the knowledge you've to create something cool 🚀
 ```
 
+### Clone This Repository
+
+```
+git clone https://github.com/qxresearch/qxresearch-event-1
+```
 
 ### Python Application
 
@@ -43,6 +47,15 @@
 * [Link Shortner](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Link%20Shortener)
 * [Terminal Tricks](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Terminal%20Tricks)
 * [Birthday Reminder](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Birthday%20Reminder)
+* [Audiobook](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/audiobook)
+* [Alarm](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Alarm)
+* [Schedule YouTube Video](https://github.com/xiaowuc2/Schedule-YouTube-video-Python/blob/master/python%20code.py)
+* [Calendar](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Calendar)
+* [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint)
+* [Screenshot taker](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/ScreenShot)
+* [Search Engine](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Search%20Engine)
+
+
 
 ### Contributing
 
@@ -67,7 +80,7 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 
 * Join Mozilla Group [@qxresearch](https://www.youtube.com/watch?v=Cxi3R3A7yMQ)
 * Join Telegram Group [@qxresearch](https://t.me/qxresearch)
-* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: GitHub id @qxresearch)
+* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (subject: `GitHub id @qxresearch`)
 
 
 <p align="center">
